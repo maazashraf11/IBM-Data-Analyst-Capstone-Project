@@ -1,0 +1,6 @@
+1. Plot a distribution curve, and histogram.
+2. Find the median, and outliers of particular columns.
+3. Compute the Inter Quartile Range.
+4. Find out the upper and lower bounds, and find correlations between numerical columns.
+5. Create a new dataframe.
+
